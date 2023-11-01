@@ -1,0 +1,111 @@
+.frame-child3 {
+  align-self: stretch;
+}
+.choose-a-donation,
+.frame-child4 {
+  position: relative;
+}
+.frame-child4 {
+  width: 20.1px;
+  height: 20.1px;
+}
+.div2 {
+  position: relative;
+  font-weight: 900;
+  display: inline-block;
+  width: 65px;
+  flex-shrink: 0;
+}
+.group-parent,
+.wrapper1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-parent {
+  gap: var(--gap-xl);
+}
+.div3 {
+  position: relative;
+  font-weight: 900;
+  display: inline-block;
+  width: 74.9px;
+  flex-shrink: 0;
+}
+.group-container,
+.wrapper2 {
+  width: 78.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-container {
+  width: 122.7px;
+  gap: var(--gap-xl);
+}
+.div4 {
+  position: relative;
+  font-weight: 900;
+  display: inline-block;
+  width: 72.1px;
+  flex-shrink: 0;
+}
+.enter-a-custom {
+  position: relative;
+  font-size: var(--font-size-sm);
+  text-decoration: underline;
+  color: var(--green-2);
+}
+.choose-a-donation-amount-parent,
+.frame-parent4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent4 {
+  gap: var(--gap-xl);
+  font-size: var(--font-size-5xl);
+}
+.choose-a-donation-amount-parent {
+  gap: var(--gap-3xs);
+}
+.group-parent2,
+.group-parent3 {
+  flex: 1;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-honeydew);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+  gap: var(--gap-3xs);
+}
+.group-parent3 {
+  background-color: var(--ss-grey);
+  color: var(--gray-3);
+}
+.frame-parent3,
+.frame-parent5 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent5 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-3xs);
+  color: var(--gray-2);
+}
+.frame-parent3 {
+  flex-direction: column;
+  gap: var(--gap-11xl);
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--gray-1);
+  font-family: var(--font-lato);
+}

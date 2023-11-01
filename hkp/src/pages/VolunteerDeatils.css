@@ -1,0 +1,340 @@
+.profile1-icon {
+  position: absolute;
+  top: 40px;
+  left: 1320px;
+  width: 104px;
+  height: 40px;
+}
+.unsplashc8ta0gwpbqg-icon {
+  position: absolute;
+  top: 60px;
+  left: 1136px;
+  border-radius: var(--br-481xl);
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+}
+.volunteer-deatils1 {
+  position: absolute;
+  top: 67px;
+  left: 241px;
+  font-size: var(--font-size-26xl);
+  font-weight: 600;
+  color: var(--color-black);
+  display: inline-block;
+  width: 371px;
+  height: 53px;
+}
+.firstname-child {
+  position: absolute;
+  top: 36px;
+  left: -2px;
+  border-radius: var(--br-8xs);
+  background-color: var(--white);
+  border: 2px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 409px;
+  height: 74px;
+}
+.first-name,
+.mehrab {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.mehrab {
+  top: 59px;
+  left: 27px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  color: var(--color-gray-200);
+}
+.address-child,
+.firstname {
+  position: absolute;
+  top: 207px;
+  left: 242px;
+  width: 405px;
+  height: 108px;
+}
+.address-child {
+  top: 36px;
+  left: -2px;
+  border-radius: var(--br-8xs);
+  background-color: var(--white);
+  border: 2px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 264px;
+  height: 74px;
+}
+.contact-number {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 260px;
+  height: 29px;
+}
+.div,
+.wrapper {
+  position: absolute;
+  width: 209.9px;
+}
+.div {
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.wrapper {
+  top: 59px;
+  left: 8.1px;
+  height: 28px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-200);
+}
+.address,
+.address-inner {
+  position: absolute;
+  top: 452px;
+  left: 241px;
+  width: 260px;
+  height: 108px;
+}
+.address-inner {
+  top: 134px;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--white);
+  border: 2px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 509px;
+  height: 206px;
+}
+.write-upto-50 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 252px;
+  height: 37px;
+}
+.write-upto-50-words-wrapper {
+  position: absolute;
+  top: 59px;
+  left: 8px;
+  width: 252px;
+  height: 37px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-200);
+}
+.address1,
+.rectangle-div {
+  position: absolute;
+  top: 589px;
+  left: 241px;
+  width: 507px;
+  height: 338px;
+}
+.rectangle-div {
+  top: 36px;
+  left: -2px;
+  border-radius: var(--br-8xs);
+  background-color: var(--white);
+  border: 2px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 321px;
+  height: 74px;
+}
+.time-you-can {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 317px;
+  height: 29px;
+}
+.hoursday,
+.hoursday-wrapper {
+  position: absolute;
+  width: 262px;
+}
+.hoursday {
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.hoursday-wrapper {
+  top: 59px;
+  left: 8px;
+  height: 28px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-200);
+}
+.address-child1,
+.address2 {
+  position: absolute;
+  top: 716px;
+  left: 798px;
+  width: 317px;
+  height: 108px;
+}
+.address-child1 {
+  top: 36px;
+  left: 3px;
+  border-radius: var(--br-8xs);
+  background-color: var(--white);
+  border: 2px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 542px;
+  height: 74px;
+}
+.write-upto-100 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 314px;
+}
+.write-upto-100-words-wrapper {
+  position: absolute;
+  top: 59px;
+  left: 12px;
+  width: 314px;
+  height: 28px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-200);
+}
+.address3,
+.lastname-child {
+  position: absolute;
+  top: 452px;
+  left: 591px;
+  width: 543px;
+  height: 108px;
+}
+.lastname-child {
+  top: 36px;
+  left: -2px;
+  border-radius: var(--br-8xs);
+  background-color: var(--white);
+  border: 2px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 411px;
+  height: 74px;
+}
+.bozorgi,
+.last-name {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 319px;
+}
+.bozorgi {
+  top: 59px;
+  left: 11.1px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  color: var(--color-gray-200);
+  width: 83.4px;
+}
+.group-child,
+.lastname {
+  position: absolute;
+  top: 207px;
+  left: 727px;
+  width: 407px;
+  height: 108px;
+}
+.group-child {
+  top: -1px;
+  left: -1px;
+  border-radius: var(--br-8xs);
+  background-color: var(--white);
+  border: 2px solid var(--color-darkorange);
+  box-sizing: border-box;
+  width: 182px;
+  height: 57px;
+}
+.edit {
+  position: absolute;
+  top: 11px;
+  left: 63px;
+}
+.group-item,
+.rectangle-group {
+  position: absolute;
+  width: 180px;
+  height: 55px;
+}
+.rectangle-group {
+  top: 1003px;
+  left: 243px;
+  cursor: pointer;
+  font-size: var(--font-size-9xl);
+  color: var(--color-darkorange);
+}
+.group-item {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-darkorange);
+}
+.save {
+  position: absolute;
+  top: 11px;
+  left: 60px;
+  font-weight: 600;
+}
+.rectangle-container {
+  position: absolute;
+  top: 1003px;
+  left: 459px;
+  width: 180px;
+  height: 55px;
+  cursor: pointer;
+  font-size: var(--font-size-9xl);
+  color: var(--white);
+}
+.upload-photo {
+  position: relative;
+  font-weight: 500;
+}
+.upload-photo-wrapper {
+  position: absolute;
+  top: 185px;
+  left: 1149px;
+  border-radius: 88.89px;
+  background-color: var(--color-ghostwhite);
+  width: 134px;
+  height: 37px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4.44444465637207px 14.222222328186035px;
+  box-sizing: border-box;
+  font-size: var(--font-size-2xs);
+  color: var(--dark-all-content);
+  font-family: var(--font-outfit);
+}
+.volunteer-deatils {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-7xl);
+  color: var(--color-gray-300);
+  font-family: var(--font-roboto);
+}

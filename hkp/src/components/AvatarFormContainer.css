@@ -1,0 +1,55 @@
+.pick-an-avatar {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 537px;
+}
+.avatar-icon1 {
+  position: relative;
+  width: 100px;
+  height: 100px;
+}
+.avatar-parent1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-31xl);
+}
+.set-as-profile {
+  position: relative;
+  font-weight: 600;
+}
+.set-as-profile-picture-wrapper {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-blue);
+  box-shadow: 4px 4px 4px rgba(52, 36, 121, 0.25),
+    -4px -4px 4px rgba(52, 36, 121, 0.25);
+  width: 383px;
+  height: 60px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-5xl);
+  box-sizing: border-box;
+  cursor: pointer;
+  font-size: var(--font-size-xl);
+  color: var(--color-thistle);
+}
+.pick-an-avatar-as-your-profile-parent {
+  position: absolute;
+  top: 363px;
+  left: 445px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-31xl);
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}

@@ -1,0 +1,47 @@
+.address-child7 {
+  position: absolute;
+  top: 36px;
+  left: -2px;
+  border-radius: var(--br-8xs);
+  background-color: var(--white);
+  border: 2px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 264px;
+  height: 74px;
+}
+.experience,
+.write-upto-1000 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.experience {
+  font-weight: 600;
+  width: 260px;
+  height: 29px;
+}
+.write-upto-1000 {
+  font-weight: 500;
+  width: 262px;
+}
+.address11,
+.write-upto-1000-words-wrapper {
+  position: absolute;
+  top: 59px;
+  left: 8px;
+  width: 262px;
+  height: 28px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-200);
+}
+.address11 {
+  top: 589px;
+  left: 560px;
+  width: 270px;
+  height: 108px;
+  text-align: left;
+  font-size: var(--font-size-7xl);
+  color: var(--color-gray-300);
+  font-family: var(--font-roboto);
+}

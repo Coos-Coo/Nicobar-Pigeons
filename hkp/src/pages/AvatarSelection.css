@@ -1,0 +1,141 @@
+.choose-your-role {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 831px;
+  height: 88px;
+  flex-shrink: 0;
+}
+.choose-your-role-wrapper {
+  position: absolute;
+  top: 159px;
+  left: 392px;
+  width: 732px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 96px;
+  color: var(--color-gray-100);
+}
+.vounteer {
+  position: absolute;
+  top: 39px;
+  left: 22.5px;
+  font-weight: 600;
+}
+.vounteer-wrapper {
+  position: relative;
+  width: 127px;
+  height: 100px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.avatar-selection-inner {
+  position: absolute;
+  top: 617px;
+  left: 186px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-blue);
+  box-shadow: 4px 4px 4px rgba(52, 36, 121, 0.25) inset,
+    -4px -4px 4px rgba(52, 36, 121, 0.25) inset;
+  width: 383px;
+  height: 60px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-5xl);
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.community-member {
+  position: relative;
+  font-weight: 600;
+}
+.community-member-wrapper {
+  position: absolute;
+  top: 617px;
+  left: 840px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-blue);
+  box-shadow: 4px 4px 4px rgba(52, 36, 121, 0.25) inset,
+    -4px -4px 4px rgba(52, 36, 121, 0.25) inset;
+  width: 383px;
+  height: 60px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-5xl);
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.vector-icon {
+  position: absolute;
+  height: 19.13%;
+  width: 14.24%;
+  top: 34.18%;
+  right: 66.18%;
+  bottom: 46.69%;
+  left: 19.58%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.avatar-selection-child,
+.avatar-selection-item {
+  position: absolute;
+  top: 361px;
+  left: 925px;
+  width: 218px;
+  height: 205px;
+}
+.avatar-selection-item {
+  top: 350px;
+  left: 275px;
+  border-radius: 50%;
+  border: 6px solid #4c12dd;
+  box-sizing: border-box;
+  height: 200px;
+}
+.image-13-icon,
+.image-15-icon {
+  position: absolute;
+  top: 385px;
+  left: 951px;
+  width: 166px;
+  height: 156px;
+  object-fit: cover;
+}
+.image-15-icon {
+  height: 62.24%;
+  width: 60.49%;
+  top: 18.88%;
+  right: 20%;
+  bottom: 18.88%;
+  left: 19.51%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.avatar1 {
+  position: absolute;
+  top: 343px;
+  left: 282px;
+  width: 205px;
+  height: 196px;
+}
+.avatar-selection {
+  position: relative;
+  background-color: var(--color-gray-500);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-thistle);
+  font-family: var(--font-roboto);
+}

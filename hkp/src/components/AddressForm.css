@@ -1,0 +1,41 @@
+.address-child6 {
+  position: absolute;
+  top: 32px;
+  left: -2px;
+  border-radius: var(--br-8xs);
+  background-color: var(--white);
+  border: 2px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 246px;
+  height: 66px;
+}
+.address10,
+.zboncak1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 128px;
+  height: 26.7px;
+}
+.zboncak1 {
+  top: 52.4px;
+  left: 7px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  color: var(--color-gray-200);
+  width: 235px;
+  height: 24.9px;
+}
+.address9 {
+  position: absolute;
+  top: 334px;
+  left: 894px;
+  width: 242px;
+  height: 96px;
+  text-align: left;
+  font-size: var(--font-size-7xl);
+  color: var(--color-gray-300);
+  font-family: var(--font-roboto);
+}

@@ -1,0 +1,117 @@
+.download-1-icon1 {
+  position: relative;
+  width: 41px;
+  height: 32px;
+  object-fit: cover;
+}
+.yoga-club1 {
+  position: relative;
+  font-weight: 500;
+}
+.download-1-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-mid);
+}
+.frame-parent8,
+.frame-wrapper3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper3 {
+  border-radius: var(--br-10xs);
+  background-color: var(--color-darkslategray-100);
+  width: 369px;
+  height: 70px;
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: var(--padding-mini) var(--padding-4xs) var(--padding-mini)
+    var(--padding-mini);
+  box-sizing: border-box;
+}
+.frame-parent8 {
+  position: absolute;
+  top: 147px;
+  left: 22px;
+  gap: var(--gap-13xl);
+}
+.communities3 {
+  margin: 0;
+}
+.communities2 {
+  position: absolute;
+  top: 114px;
+  left: 40px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  color: var(--color-floralwhite-200);
+  display: inline-block;
+  width: 196px;
+  height: 33px;
+}
+.frame-icon {
+  position: absolute;
+  top: 66px;
+  left: 315px;
+  border-radius: var(--br-8xs);
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.frame-child9,
+.image-12-icon1 {
+  position: absolute;
+  top: 0;
+  left: 33.5px;
+  width: 15px;
+  height: 326px;
+}
+.image-12-icon1 {
+  top: 721px;
+  left: 12px;
+  width: 89px;
+  height: 87px;
+  object-fit: cover;
+}
+.donate-now1 {
+  position: relative;
+  font-weight: 600;
+  cursor: pointer;
+}
+.donate-now-container {
+  position: absolute;
+  top: 735px;
+  left: 117px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-blue);
+  box-shadow: 4px 4px 4px rgba(52, 36, 121, 0.25),
+    -4px -4px 4px rgba(52, 36, 121, 0.25);
+  width: 281px;
+  height: 61px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-5xl);
+  box-sizing: border-box;
+  color: var(--color-thistle);
+}
+.frame-parent7 {
+  position: absolute;
+  top: 70px;
+  left: 70px;
+  background-color: var(--color-gray-400);
+  width: 413px;
+  height: 884px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-lavenderblush);
+  font-family: var(--font-roboto);
+}

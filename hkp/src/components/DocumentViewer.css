@@ -1,0 +1,87 @@
+.verified {
+  position: absolute;
+  top: calc(50% - 9.5px);
+  left: calc(50% - 21px);
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 56px;
+  height: 20px;
+}
+.verified-wrapper {
+  position: absolute;
+  top: 55px;
+  left: 354px;
+  border-radius: 64.59px;
+  background-color: var(--color-aquamarine);
+  width: 138px;
+  height: 49px;
+  overflow: hidden;
+  font-family: var(--font-outfit);
+}
+.aadhar-card,
+.documents {
+  left: 7px;
+  display: inline-block;
+}
+.documents {
+  position: absolute;
+  top: 8px;
+  font-size: var(--font-size-7xl);
+  font-weight: 600;
+  color: var(--color-gray-300);
+  width: 260px;
+  height: 29px;
+}
+.aadhar-card {
+  top: 66px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-200);
+  width: 209.9px;
+}
+.aadhar-card,
+.edit2,
+.kyc {
+  position: absolute;
+  font-weight: 500;
+}
+.kyc {
+  top: 117px;
+  left: 7px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 209.9px;
+}
+.edit2 {
+  top: calc(50% - 6.6px);
+  left: calc(50% - 4.4px);
+}
+.edit-wrapper,
+.frame-parent6 {
+  position: absolute;
+  overflow: hidden;
+}
+.edit-wrapper {
+  top: 110px;
+  left: 377px;
+  border-radius: 64.59px;
+  background-color: var(--color-ghostwhite);
+  width: 81px;
+  height: 52px;
+  font-family: var(--font-outfit);
+}
+.frame-parent6 {
+  top: 725px;
+  left: 242px;
+  border-radius: 4.44px;
+  box-shadow: 0 1.8px 1.78px rgba(0, 0, 0, 0.1);
+  border: 0.9px solid var(--input-box-stroke-thin);
+  box-sizing: border-box;
+  width: 505px;
+  height: 202px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--dark-all-content);
+  font-family: var(--font-roboto);
+}

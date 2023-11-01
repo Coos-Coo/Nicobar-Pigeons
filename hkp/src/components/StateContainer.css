@@ -1,0 +1,49 @@
+.state-child {
+  position: absolute;
+  top: 31.8px;
+  left: -2px;
+  border-radius: var(--br-8xs);
+  background-color: var(--white);
+  border: 2px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 414px;
+  height: 66.2px;
+}
+.bozorgi1,
+.state1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 62.8px;
+  height: 26.7px;
+}
+.bozorgi1 {
+  top: 52.4px;
+  left: 27.3px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  color: var(--color-gray-200);
+  width: 84px;
+  height: 24.9px;
+}
+.keyboard-arrow-down1 {
+  position: absolute;
+  top: 43.6px;
+  left: 298.2px;
+  width: 48.6px;
+  height: 42.7px;
+  overflow: hidden;
+}
+.state {
+  position: absolute;
+  top: 334px;
+  left: 462px;
+  width: 410px;
+  height: 96px;
+  text-align: left;
+  font-size: var(--font-size-7xl);
+  color: var(--color-gray-300);
+  font-family: var(--font-roboto);
+}

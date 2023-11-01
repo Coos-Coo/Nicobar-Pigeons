@@ -1,0 +1,48 @@
+.username-parent {
+  width: 383px;
+  position: relative;
+}
+.frame-textfield {
+  border: 0;
+  background-color: transparent;
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  font-size: var(--font-size-xl);
+  position: relative;
+  cursor: pointer;
+}
+.login-button {
+  width: 383px;
+}
+.span2 {
+  color: var(--white);
+}
+.create {
+  color: var(--color-blue);
+}
+.one {
+  color: var(--color-mediumblue-100);
+}
+.dont-have-an-container {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  width: 380px;
+  cursor: pointer;
+}
+.frame-parent10 {
+  position: absolute;
+  top: 361px;
+  left: 528px;
+  width: 387px;
+  height: 423px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-16xl);
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-lightgray-100);
+  font-family: var(--font-roboto);
+}
